@@ -7,7 +7,7 @@ In order to change all that, I've created a barebone repository with minimal but
 # How to use
 ```
 # installing nodejs
-curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 sudo apt-get install -y nodejs
 
 # clone this repository & move into the directory
